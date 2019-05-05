@@ -1,4 +1,3 @@
-# The hitchiker's guide to the CTS
 
 This is the training course for the CTS trainees.
 

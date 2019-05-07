@@ -18,19 +18,23 @@ An addition, a **team** training course will be held by the team the trainee is 
 
 
 ### **done:**
-- [x]  Getting Started
-- [ ]  Basic Linux
-- [ ]  Storage
-- [ ]  Boot
-- [x]  Package management
-- [x]  PXE and kickstart
-- [ ]  Networks
-- [x]  Basic Linux Security
-- [x]  Ansible
-- [x]  IT Tools
-- [x]  Identiy management
-- [x]  Time
-- [x]  Virtualization
-- [x]  Miscellaneous
-- [x]  Basic OpenStack and Basic OpenShift
-- [ ]  Team specific training
+- [ ] Getting Started
+- [ ] Basic Linux
+- [ ] Storage
+- [ ] Boot
+- [ ] Package management
+- [ ] PXE and kickstart
+- [ ] Networks
+- [ ] Basic Linux Security
+- [ ] Ansible
+- [ ] IT Tools
+- [ ] Identiy management
+- [ ] Time
+- [ ] Virtualization
+- [ ] General big data
+- [ ] Hadoop distribution
+- [ ] Miscellaneous
+
+Irrelevant for Big Data
+- [x] Basic OpenStack and Basic OpenShift
+- [ ] Team specific training

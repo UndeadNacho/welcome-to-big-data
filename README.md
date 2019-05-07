@@ -16,7 +16,6 @@ An addition, a **team** training course will be held by the team the trainee is 
 - An instructor that feels that his trainee could benefit from additional topics is encouraged to touch on them **in addition** to the mandatory topics.
 
 
-
 ### **done:**
 - [x] Getting Started
 - [ ] Basic Linux
@@ -31,8 +30,11 @@ An addition, a **team** training course will be held by the team the trainee is 
 - [x] Identiy management
 - [x] Time
 - [x] Virtualization
-- [ ] General big data
-- [ ] Hadoop distribution
+- [ ] Big data architecture
+- [ ] Ingest
+- [ ] Big data storage
+- [ ] Compute
+- [ ] Managment
 - [ ] Miscellaneous
 
 Irrelevant for Big Data

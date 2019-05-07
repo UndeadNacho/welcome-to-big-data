@@ -22,15 +22,15 @@ An addition, a **team** training course will be held by the team the trainee is 
 - [ ] Basic Linux
 - [ ] Storage
 - [ ] Boot
-- [ ] Package management
-- [ ] PXE and kickstart
+- [x] Package management
+- [x] PXE and kickstart
 - [ ] Networks
-- [ ] Basic Linux Security
-- [ ] Ansible
-- [ ] IT Tools
-- [ ] Identiy management
-- [ ] Time
-- [ ] Virtualization
+- [x] Basic Linux Security
+- [x] Ansible
+- [x] IT Tools
+- [x] Identiy management
+- [x] Time
+- [x] Virtualization
 - [ ] General big data
 - [ ] Hadoop distribution
 - [ ] Miscellaneous

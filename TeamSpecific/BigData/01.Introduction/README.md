@@ -2,6 +2,7 @@
 - The trainee will understand basic concepts of the data driven world 
 - The trainee will get to know the uniqueness of big data environments
 - The trainee will understand the importance and value of data
+- The trainee should be able show their knowledge via an essay
 
 ### Tasks
 - Some reading:

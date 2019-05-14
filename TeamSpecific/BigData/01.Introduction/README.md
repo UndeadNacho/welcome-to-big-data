@@ -10,7 +10,7 @@
   - Basic concepts of data driven development
   - The considerations of integrating big data into a project
 - Write a 1-2 pages long essay (in English) with the topic 'Introduction to big data' while refering to:
-  - The V's of big data
+  - What is big data
   - How big data changed the world
   - The meaning of data driven development
   - The pros and cons of using big data

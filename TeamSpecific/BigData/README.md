@@ -1,7 +1,7 @@
 ### Introduction
 - Basic concepts and ideas
-- The V's
 - The importance of data
+- Writing a short essay
 
 ### Basic Architecture
 - General dataflow

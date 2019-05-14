@@ -19,7 +19,7 @@ Or
 
 ### Vimtutor
 - Read about `vim`
-- do `vimtutor`
+- Do `vimtutor`
 
 ### Consoles types
 - Physical TTY

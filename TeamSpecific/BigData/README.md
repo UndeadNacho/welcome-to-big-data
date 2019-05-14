@@ -4,7 +4,7 @@
 - The importance of data
 
 ### Basic Architecture
-- Genral dataflow
+- General dataflow
 - Thumb rules and best practices
 - Big data on cloud architecture
 
@@ -32,7 +32,7 @@
 - Deepdive
   - Flume
   - Kafka
-  - NiFi
+  - NiFi (Ingest)
 
 ### Compute
 - Overview
@@ -41,7 +41,7 @@
   - YARN
   - Spark
 
-### Analysis and querying
+### Querying and Analysis
 - Overview
   - Hue
   - Kibana
@@ -53,13 +53,17 @@
   - Impala
   - Solr
 
-### Dataflow and job management
+### Dataflow
 - Streamsets
 - NiFi
 
+### Security
+- User management
+- Kerberos
+- Sentry
+
 ### Miscellaneous
 - Airflow
-- Sentry
 
 ### Advanced architecture recap
 - Going over the basic architecture

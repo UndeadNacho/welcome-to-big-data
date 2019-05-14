@@ -9,7 +9,7 @@
   - Distributed computing and big data
   - Basic concepts of data driven development
   - The considerations of integrating big data into a project
-- Write a short essay (in English) with the topic 'Introduction to big data' while refering to:
+- Write a 1-2 pages long essay (in English) with the topic 'Introduction to big data' while refering to:
   - The V's of big data
   - How big data changed the world
   - The meaning of data driven development

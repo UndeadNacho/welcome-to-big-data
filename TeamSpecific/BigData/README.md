@@ -6,7 +6,7 @@
 ### Basic Architecture
 - General dataflow
 - Thumb rules and best practices
-- Big data on cloud architecture
+- Picking the right tools
 
 ### Management
 - Unmanaged services

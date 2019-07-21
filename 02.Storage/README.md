@@ -2,7 +2,7 @@
 
 
 ### Storage media
-- Difference between the two
+- Difference between the three
 - nvme
 - SATA
 - m.2

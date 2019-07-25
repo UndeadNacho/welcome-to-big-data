@@ -21,14 +21,14 @@ An addition, a **team** training course will be held by the team the trainee is 
 - [ ] Basic Linux
 - [ ] Storage
 - [ ] Boot
-- [x] Package management
-- [x] PXE and kickstart
 - [ ] Networks
 - [x] Basic Linux Security
 - [x] Ansible
 - [x] IT Tools
-- [x] Identiy management
+- [x] Package management
 - [x] Time
+- [x] Identiy management
+- [x] PXE and kickstart
 - [x] Virtualization
 - [ ] Big data architecture
 - [ ] Ingest

@@ -7,7 +7,8 @@
 - Querying
 
 ## Thumb rules and best practices
-- Concept of threeplication (3plic8)
+- Concept of data replication
+- Erasure coding
 - Quorums and split-brain prevention
 - Knowing your limits
 - Organization in your organization

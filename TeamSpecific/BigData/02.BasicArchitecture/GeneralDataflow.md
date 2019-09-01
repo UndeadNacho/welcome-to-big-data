@@ -7,10 +7,11 @@
 ### Tasks
 
 - Find a reference architecture for a bank's big data architecture and describe it's parts
-- For each of the following describe a possible point of failure that might cause data not to reach the client:
+- For each of the following describe a related point of failure that might cause data not to reach the client:
   - Ingest
-  - Processing
+  - Parsing
   - Storage
+  - Processing
   - Query engine
 - For each of the following types of systems make a basic architecture diagram containing their ingest, processing, storage and querying parts:
   - A batch-based, ETL driven driven environment

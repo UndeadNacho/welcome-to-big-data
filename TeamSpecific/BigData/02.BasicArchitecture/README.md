@@ -4,6 +4,7 @@
 - Ingest
 - Parsing
 - Storage
+- Processing
 - Querying
 
 ## Thumb rules and best practices

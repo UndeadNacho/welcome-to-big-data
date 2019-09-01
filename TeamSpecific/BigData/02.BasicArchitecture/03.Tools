@@ -1,0 +1,17 @@
+### Goals
+ - The trainee will learn about different products and their applications
+ - The trainee will know how to compare between competing products
+
+### Tasks
+ - Search for and shortly review products that provide solutions for the folowing needs (if you find a specific-cloud dependent product, try to also bring an example for something similar that's not):
+  - Real time data streaming
+  - Text search and log aggregation
+  - Stream processing
+  - ETL processing
+  - Distributed file system with a lot of reads
+  - Query engine that can query multiple types of data sources simultaniously
+  - End to end modular dataflow manager
+- For each of the products you've brought try to find a product with similar purpose, and write a high-level (not in-depth) comparison between the two. 
+  Try to determine which is better for an on-premise environment like ours. 
+  Rely on the knowledge you have about our environment and future plans in order to come to a conclution.
+  Each comparison should be no longer than one page and written with a high level of technical language and proper phrasing.
